@@ -1,10 +1,11 @@
 # Boot Gemini
 
-*Looking at setting up a simple app using Google Gemini following https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/
+Looking at setting up a simple app using Google Gemini following https://loiane.com/2025/01/intelligent-java-applications-using-spring-ai-and-gemini/
 
-The official Spring AI Documentation: https://docs.spring.io/spring-ai/reference/api/chat/google-vertexai.html
+## Other references:
 
-And Google Gemini API Docs: https://ai.google/
+- The official Spring AI Documentation: https://docs.spring.io/spring-ai/reference/api/chat/google-vertexai.html
+- Google Gemini API Docs: https://ai.google/
 
 ## Setup steps:
 
